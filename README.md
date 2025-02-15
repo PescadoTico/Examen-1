@@ -10,7 +10,7 @@ R/ Se deben registrar el ID del empleado, la fecha de la jornada, las horas de e
 
 2. ¿Como determinarias la cantidad total de horas trabajadas en una semana?
 
-R/ Se suman las horas trabajadas de lunes a domingo, separando horas ordinarias de horas especiales (extras, nocturnas o en festivos). Se verifica que el total no exceda el limite semanal permitido por la ley. Si hay actividades especiales, se evalua si aplican recargos o bonificaciones segun las politicas de la empresa o la normativa laboral.
+R/ Se suman las horas trabajadas de lunes a domingo, separando horas ordinarias de horas especiales (extras, nocturnas o en festivos). Se verifica que el total no exceda el limite semanal permitido. Si hay actividades especiales, se evalua si aplican recargos o bonificaciones segun las politicas de la empresa o la normativa laboral.
 
 3. ¿Como se diferenciarian las horas ordinarias de las horas especiales?
 
@@ -23,7 +23,7 @@ La diferenciacion depende de las normativas de la empresa.
 
 4. ¿Como se calcularia el pago total de un empleado considerando bonificaciones y deducciones?
    
-R/ Primero, se multiplica el total de horas ordinarias por la tarifa base. Luego, se suman los pagos adicionales por horas especiales, que se pagan con recargos establecidos por ley. Se agregan bonificaciones (como premios por desempeño) y se restan deducciones (como impuestos o descuentos por ausencias). El pago total es la suma de todos los ingresos menos las deducciones, respetando las normativas laborales.
+R/ Primero, se multiplica el total de horas ordinarias por la tarifa base. Luego, se suman los pagos adicionales por horas especiales, que se pagan con recargos establecidos. Se agregan bonificaciones (como premios por desempeño) y se restan deducciones (como impuestos o descuentos por ausencias). El pago total es la suma de todos los ingresos menos las deducciones, respetando las normativas laborales.
 
 5. ¿Que validaciones deberias realizar para asegurarte de que los datos ingresados son correctos?
    
