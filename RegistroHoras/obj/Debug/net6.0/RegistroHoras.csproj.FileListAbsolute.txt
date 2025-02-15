@@ -1,0 +1,14 @@
+C:\Users\Pesca\RegistroHoras\bin\Debug\net6.0\RegistroHoras.exe
+C:\Users\Pesca\RegistroHoras\bin\Debug\net6.0\RegistroHoras.deps.json
+C:\Users\Pesca\RegistroHoras\bin\Debug\net6.0\RegistroHoras.runtimeconfig.json
+C:\Users\Pesca\RegistroHoras\bin\Debug\net6.0\RegistroHoras.dll
+C:\Users\Pesca\RegistroHoras\bin\Debug\net6.0\RegistroHoras.pdb
+C:\Users\Pesca\RegistroHoras\obj\Debug\net6.0\RegistroHoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pesca\RegistroHoras\obj\Debug\net6.0\RegistroHoras.AssemblyInfoInputs.cache
+C:\Users\Pesca\RegistroHoras\obj\Debug\net6.0\RegistroHoras.AssemblyInfo.cs
+C:\Users\Pesca\RegistroHoras\obj\Debug\net6.0\RegistroHoras.csproj.CoreCompileInputs.cache
+C:\Users\Pesca\RegistroHoras\obj\Debug\net6.0\RegistroHoras.dll
+C:\Users\Pesca\RegistroHoras\obj\Debug\net6.0\refint\RegistroHoras.dll
+C:\Users\Pesca\RegistroHoras\obj\Debug\net6.0\RegistroHoras.pdb
+C:\Users\Pesca\RegistroHoras\obj\Debug\net6.0\RegistroHoras.genruntimeconfig.cache
+C:\Users\Pesca\RegistroHoras\obj\Debug\net6.0\ref\RegistroHoras.dll
